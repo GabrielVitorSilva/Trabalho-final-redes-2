@@ -1,0 +1,68 @@
+2026-06-14 19:02:36,161 | INFO | Servidor iniciado em 127.0.0.1:5103
+2026-06-14 19:02:36,241 | INFO | Cliente conectado: 127.0.0.1:49823
+2026-06-14 19:02:36,241 | INFO | Cliente 127.0.0.1:49823 desconectou.
+2026-06-14 19:02:36,271 | INFO | Cliente conectado: 127.0.0.1:49824
+2026-06-14 19:02:36,271 | INFO | Solicitacao de 127.0.0.1:49824 | pedido='hora' | resposta=19:02:36
+2026-06-14 19:02:36,271 | INFO | Cliente 127.0.0.1:49824 desconectou.
+2026-06-14 19:03:04,835 | INFO | Servidor iniciado em 127.0.0.1:5103
+2026-06-14 19:03:04,910 | INFO | Cliente conectado: 127.0.0.1:49841
+2026-06-14 19:03:04,910 | INFO | Cliente 127.0.0.1:49841 desconectou.
+2026-06-14 19:03:04,939 | INFO | Cliente conectado: 127.0.0.1:49842
+2026-06-14 19:03:04,939 | INFO | Solicitacao de 127.0.0.1:49842 | pedido='hora' | resposta=19:03:04
+2026-06-14 19:03:04,939 | INFO | Cliente 127.0.0.1:49842 desconectou.
+2026-06-14 19:03:39,754 | INFO | Servidor iniciado em 127.0.0.1:5103
+2026-06-14 19:03:39,839 | INFO | Cliente conectado: 127.0.0.1:49856
+2026-06-14 19:03:39,839 | INFO | Cliente 127.0.0.1:49856 desconectou.
+2026-06-14 19:03:39,862 | INFO | Cliente conectado: 127.0.0.1:49857
+2026-06-14 19:03:39,862 | INFO | Solicitacao de 127.0.0.1:49857 | pedido='hora' | resposta=19:03:39
+2026-06-14 19:03:39,862 | INFO | Cliente 127.0.0.1:49857 desconectou.
+2026-06-14 19:04:01,998 | INFO | Servidor iniciado em 127.0.0.1:5103
+2026-06-14 19:04:02,075 | INFO | Cliente conectado: 127.0.0.1:49891
+2026-06-14 19:04:02,076 | INFO | Cliente 127.0.0.1:49891 desconectou.
+2026-06-14 19:04:02,099 | INFO | Cliente conectado: 127.0.0.1:49892
+2026-06-14 19:04:02,100 | INFO | Solicitacao de 127.0.0.1:49892 | pedido='hora' | resposta=19:04:02
+2026-06-14 19:04:02,100 | INFO | Cliente 127.0.0.1:49892 desconectou.
+2026-06-14 19:22:49,901 | INFO | Servidor iniciado em 127.0.0.1:5203
+2026-06-14 19:22:49,978 | INFO | Cliente conectado: 127.0.0.1:50144
+2026-06-14 19:22:49,978 | INFO | Cliente 127.0.0.1:50144 desconectou.
+2026-06-14 19:22:50,012 | INFO | Cliente conectado: 127.0.0.1:50145
+2026-06-14 19:22:50,012 | INFO | Solicitacao de 127.0.0.1:50145 | pedido='hora' | resposta=19:22:50
+2026-06-14 19:22:50,012 | INFO | Cliente 127.0.0.1:50145 desconectou.
+2026-06-14 19:24:05,883 | INFO | Servidor iniciado em 127.0.0.1:5203
+2026-06-14 19:24:05,958 | INFO | Cliente conectado: 127.0.0.1:50278
+2026-06-14 19:24:05,958 | INFO | Cliente 127.0.0.1:50278 desconectou.
+2026-06-14 19:24:05,985 | INFO | Cliente conectado: 127.0.0.1:50279
+2026-06-14 19:24:05,985 | INFO | Solicitacao de 127.0.0.1:50279 | pedido='hora' | resposta=19:24:05
+2026-06-14 19:24:05,985 | INFO | Cliente 127.0.0.1:50279 desconectou.
+2026-06-14 19:24:40,654 | INFO | Servidor iniciado em 127.0.0.1:5203
+2026-06-14 19:24:40,732 | INFO | Cliente conectado: 127.0.0.1:50327
+2026-06-14 19:24:40,732 | INFO | Cliente 127.0.0.1:50327 desconectou.
+2026-06-14 19:24:40,761 | INFO | Cliente conectado: 127.0.0.1:50328
+2026-06-14 19:24:40,761 | INFO | Solicitacao de 127.0.0.1:50328 | pedido='hora' | resposta=19:24:40
+2026-06-14 19:24:40,761 | INFO | Cliente 127.0.0.1:50328 desconectou.
+2026-06-14 19:30:56,274 | INFO | Servidor iniciado em 127.0.0.1:5403
+2026-06-14 19:30:56,350 | INFO | Cliente conectado: 127.0.0.1:50486
+2026-06-14 19:30:56,351 | INFO | Cliente 127.0.0.1:50486 desconectou.
+2026-06-14 19:30:56,381 | INFO | Cliente conectado: 127.0.0.1:50487
+2026-06-14 19:30:56,381 | INFO | Solicitacao de 127.0.0.1:50487 | pedido='hora' | resposta=19:30:56
+2026-06-14 19:30:56,381 | INFO | Cliente 127.0.0.1:50487 desconectou.
+2026-06-14 19:31:50,098 | INFO | Servidor iniciado em 127.0.0.1:5503
+2026-06-14 19:31:50,173 | INFO | Cliente conectado: 127.0.0.1:50508
+2026-06-14 19:31:50,173 | INFO | Cliente 127.0.0.1:50508 desconectou.
+2026-06-14 19:31:50,201 | INFO | Cliente conectado: 127.0.0.1:50509
+2026-06-14 19:31:50,202 | INFO | Solicitacao de 127.0.0.1:50509 | pedido='hora' | resposta=19:31:50
+2026-06-14 19:31:50,202 | INFO | Cliente 127.0.0.1:50509 desconectou.
+2026-06-14 19:37:30,215 | INFO | Servidor iniciado em 127.0.0.1:6504
+2026-06-14 19:37:30,276 | INFO | Cliente conectado: 127.0.0.1:50633
+2026-06-14 19:37:30,276 | INFO | Cliente 127.0.0.1:50633 desconectou.
+2026-06-14 19:37:30,306 | INFO | Cliente conectado: 127.0.0.1:50634
+2026-06-14 19:37:30,306 | INFO | Solicitacao de 127.0.0.1:50634 | pedido='hora' | resposta=19:37:30
+2026-06-14 19:37:30,306 | INFO | Cliente 127.0.0.1:50634 desconectou.
+2026-06-14 19:44:03,136 | INFO | Servidor iniciado em 0.0.0.0:7000
+2026-06-14 19:44:12,449 | INFO | Servidor iniciado em 0.0.0.0:7001
+2026-06-14 19:44:25,257 | INFO | Cliente conectado: 127.0.0.1:50762
+2026-06-14 19:44:36,134 | INFO | Solicitacao de 127.0.0.1:50762 | pedido='hora' | resposta=19:44:36
+2026-06-14 19:44:39,178 | INFO | Solicitacao de 127.0.0.1:50762 | pedido='hora' | resposta=19:44:39
+2026-06-14 19:44:43,603 | INFO | Solicitacao de 127.0.0.1:50762 | pedido='hora' | resposta=19:44:43
+2026-06-14 19:44:46,440 | INFO | Cliente 127.0.0.1:50762 desconectou.
+2026-06-14 19:44:50,627 | INFO | Encerramento solicitado pelo usuario.
