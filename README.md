@@ -24,6 +24,41 @@ Os exercicios 5 a 9 sao de captura e analise no Wireshark, entao nao precisam de
 
 Use Python 3.10 ou superior.
 
+## Como rodar em dois computadores na mesma rede
+
+Se o servidor estiver em um computador e o cliente em outro, siga esta regra:
+
+- No computador do servidor, use `--host 0.0.0.0`
+- No computador do cliente, use o IP real do computador do servidor na rede local
+
+Exemplo:
+
+```bash
+python3 exercicio_1_tcp/server.py --host 0.0.0.0 --port 5000
+python3 exercicio_1_tcp/client.py --host 192.168.0.10 --port 5000
+```
+
+`192.168.0.10` e apenas um exemplo. O IP certo pode ser visto com `ipconfig` no Windows, `ip a` no Linux ou `ipconfig getifaddr en0` no macOS.
+
+### Como descobrir o IP do computador
+
+- No Windows, abra o Prompt de Comando e rode:
+  ```bash
+  ipconfig
+  ```
+- No Linux, abra o terminal e rode:
+  ```bash
+  ip a
+  ```
+- No macOS, abra o terminal e rode:
+  ```bash
+  ipconfig getifaddr en0
+  ```
+
+Procure o endereco da interface de rede usada na sua conexao, como Wi-Fi ou cabo. Normalmente ele aparece como algo parecido com `192.168.x.x` ou `10.x.x.x`.
+
+Se a porta estiver ocupada, troque para outra porta livre, como `5001`, `6001`, `6501`, `7001` ou `8766`.
+
 ### Exercicio 1 - TCP cliente/servidor
 
 ```bash
@@ -68,3 +103,4 @@ python3 exercicio_10_websocket_chat/client.py --host 127.0.0.1 --port 8765 --nam
 - Todos os scripts tem comentarios e o nome dos participantes.
 - O exercicio 4 gera um arquivo `server.log` dentro da pasta dele.
 - O chat do exercicio 10 usa apenas a biblioteca padrao do Python.
+- Para teste entre computadores, sempre deixe o servidor escutando em `0.0.0.0` e o cliente apontando para o IP local do servidor.
